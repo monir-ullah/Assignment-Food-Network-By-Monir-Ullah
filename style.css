@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: ;
+}
+#fullbody{
+    width: 1903px;
+}
+.all-margin-section{
+    margin: 50px 0px;
+}
+.half-width-Skip h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 66px;
+    color: #575757;
+    width: 750px;
+    height: 234px;
+    margin-top: 180px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+}
+h2{ 
+    font-family: 'Montserrat', sans-serif;
+    color: #707070;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    margin-bottom: 50px;
+}
+.half-width-Skip p{  
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    line-height: 150%;
+    color: #828282;
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    padding: 20px 40px;
+    border-radius: 50px;
+    margin-left: 100px;
+   
+}
+.span{
+    background: -webkit-linear-gradient(#FB8D47, #FB773F);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.fisrt-section{
+    display: flex;
+    width:700 px;
+    height: 700 px;
+    
+}
+.second-section{
+    margin-top: 190px;
+    width:700 px;
+    height: 750px;
+    background-color: #FFF4ED;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.second-section img{
+    margin-top: 100px;
+    height: 650px;
+    margin-left: 250px;
+}
+.aboutMe{
+    width: 35%;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 605px;
+    margin-left: 801px;
+    text-align: left;
+}
+.aboutMe p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    line-height: 150%;
+    color: #828282;
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+.half-width-Skip{
+    width: 200%
+}
+.half-width-img{
+    width: 150px;
+    height:200px;
+    margin-top: 20px;
+    margin-right:600px;
+    
+}
+.secondSecion-half-width-img{
+    width: 150px;
+    height:200px;
+}
+.myrecipies{
+    text-align: center;}  
+}
+.aboutMeP{    
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    line-height: 150%;
+    color: #252525;
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+.myrecipies p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    line-height: 150%;
+    color: #828282;
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+
+.recipie-blogs-box{
+    display: flex;
+    width: 1440px;
+    margin-left: 252px;
+}
+.recipie-blogs-box img{
+    width: 400px;
+    padding: 30px;
+}
+.recipie-shadow{
+    box-sizing: border-box;
+    box-shadow: 0px 0px 68px 3px #80808070;
+    border-radius: 25px;
+    margin: 10px;
+    margin-bottom: 76px;
+    width: 471px;
+    height:700px;
+}
+.recipie-shadow h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #575757;
+    padding: 10px;
+    margin-left: 21px;
+}
+.recipie-shadow p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    line-height: 150%;
+    color: #828282;
+    padding: 10px;
+    margin-left: 21px;
+    margin-right: 21px;
+}
+.aboutme-smallheading{
+    font-size: 40px;
+    margin-top: 15px;
+}
+.number-count-shadow{
+    width: 1440px;
+    height: 300px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 68px 3px #80808070;
+    padding: 50px;
+    margin-bottom: 80px;
+    border-radius: 30px;
+    margin-left: 252px;
+}
+.number-count-display-flex{
+    display: flex;
+    margin-left: 160px;
+}
+.number-count-width{
+    width:410px;
+}
+.number-count-width h1{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 66px;
+    color: #575757;
+    margin-top: 25px;
+    margin-bottom: 30px;   
+}
+.number-count-width p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #575757;
+    
+}
+footer{
+    background-color: #0B0D17;
+    height: 256px;
+    text-align: center;
+    
+}
+footer h2{
+    margin-left: 0px;
+}
+footer p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color:white;
+}
