@@ -9,6 +9,7 @@
 .all-margin-section{
     margin: 50px 0px;
 }
+
 .half-width-Skip h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 66px;
@@ -46,8 +47,9 @@ a{
 }
 .span{
     background: -webkit-linear-gradient(#FB8D47, #FB773F);
+    background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: transparent;
 }
 .fisrt-section{
     display: flex;
@@ -199,6 +201,15 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.email-section label{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #575757;
+    margin-left: 580px;
+}
+#margin-email-div{
+    margin-top: -80px;
+}
 .email-section input{
     width: 600px;
     height: 70px;
@@ -213,6 +224,7 @@ a{
 }
 .email-section button{
     height: 70px;
+    font-size: 18px;
     color:white;
     background-image: linear-gradient(#FBA24F, #FF1E1E);
     border-radius: 50px;
